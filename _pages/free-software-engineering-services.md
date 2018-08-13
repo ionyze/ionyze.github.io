@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: false
 title: Free or significantly reduced software engineering services
 permalink: /free-software-engineering-services
 classes: wide
