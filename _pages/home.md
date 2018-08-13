@@ -21,8 +21,8 @@ all too familiar with that barrier; and we're here to help.
 Our mission is to enable all aspiring software engineers of **Kern County** gain the
 experience they need to get a job.
 
-We help aspiring engineers be better prepared. We make it easier for them to gain
-real-world expeirence in order to successfully land their first engineering job.
+We help you be better prepared. We make it easier to gain
+real-world expeirence in order to successfully land your first software engineering job.
 This is how we'll help:
 
 1. We'll connect you with non-profits who need volunteer engineers.
