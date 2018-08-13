@@ -5,7 +5,7 @@ title: Free or significantly reduced software engineering services
 description: >
   If you're a non-profit in need of software engineering services, you can get free
   or significantly reduced pricing with ionyze. Pricing is based on demand and availability of engineers.
-permalink: /free-software-engineering-services
+permalink: /free-engineering-services
 classes: wide
 header:
   overlay_image: /assets/images/computer.jpg
