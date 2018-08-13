@@ -2,7 +2,12 @@
 layout: splash
 author_profile: true
 title: We'll help you land your first engineering job
-excerpt: |
+description: >-
+  Our mission is to enable all aspiring software engineers of
+  Kern County gain the experience they need to get a job.
+  We make it easier for them to gain real-world expeirence
+  in order to successfully land their first engineering job.  
+excerpt: >-
   Whatever your level of experience -- we'll get you there
 header:
   overlay_image: /assets/images/splash-image.jpg
