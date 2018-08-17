@@ -53,6 +53,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+footer_scripts:
+  - /assets/js/main.min.js
+  - https://use.fontawesome.com/releases/v5.2.0/js/all.js
+  - /assets/js/facebook-track.js
+
 defaults:
   # _posts
   - scope:
